@@ -1,2 +1,3 @@
-# IPL
-New Repo
+# maven-project
+
+Simple Maven Project
